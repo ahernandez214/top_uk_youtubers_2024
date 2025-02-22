@@ -514,7 +514,7 @@ Here are the key questions we need to answer for our marketing client:
 
 ### Notes
 
-For this analysis, we'll prioritize analysing the metrics that are important in generating the expected ROI for our marketing client, which are the YouTube channels wuth the most 
+For this analysis, we'll prioritize analysing the metrics that are important in generating the expected ROI for our marketing client, which are the YouTube channels with the most 
 
 - subscribers
 - total views
@@ -814,7 +814,7 @@ We discovered that
 1. NoCopyrightSOunds, Dan Rhodes and DanTDM are the channnels with the most subscribers in the UK
 2. GRM Daily, Man City and Yogscast are the channels with the most videos uploaded
 3. DanTDM, Dan RHodes and Mister Max are the channels with the most views
-4. Entertainment channels are useful for broader reach, as the channels posting consistently on their platforms and generating the most engagement are focus on entertainment and music 
+4. Entertainment channels are useful for broader reach, as the channels posting consistently on their platforms and generating the most engagement are focused on entertainment and music 
 
 
 
